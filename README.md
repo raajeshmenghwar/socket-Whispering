@@ -1,4 +1,4 @@
-# 🚀 Python Socket Communication
+# 🚀 Socket Whispering
 
 
 ## Overview
